@@ -1,1 +1,1 @@
-installation: pip install .
+Java requirement: JPype1
